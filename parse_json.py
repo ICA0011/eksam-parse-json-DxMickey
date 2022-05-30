@@ -4,6 +4,6 @@ url = 'http://upload.itcollege.ee/~aleksei/eksam.json'
 
 def parse_json(url):
     
-    # your code here
+    course_code = "ICA0011"
     
     return course_code
